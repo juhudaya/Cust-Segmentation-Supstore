@@ -7,10 +7,10 @@ Here are the steps in this Clustering Projects :
 
    ## Data Preparation
 
-    Creating Recency DataFrames
-    Creating Frequency DataFrames
-    Creating Monetary DataFrames
-    Creating RFM DataFrames
+   * Creating Recency DataFrames
+   * Creating Frequency DataFrames
+   * Creating Monetary DataFrames
+   * Creating RFM DataFrames
 
    ## RFM Analysis with Quantiles Method
 
