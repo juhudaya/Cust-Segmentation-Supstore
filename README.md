@@ -34,7 +34,7 @@ Here are the steps in this Clustering Projects :
     When does each cluster usually made an order?
     How does each cluster react on a discounts?
 
-with Quantiles Method we get the result:
+with Quantiles Method i get the result:
 
 Best Customers:  30
 Loyal Customers:  159
@@ -48,8 +48,9 @@ Insight :
 
 Recommendation for “Best Customers" segment: Focus on increasing customer purchases therefore it is necessary to form a cross/Up Selling Strategy.
 Recommendation for “Loyal Customers" segment: The business team must optimize the budget campaign and the time campaign for this customer segment in order to maintain their loyalty and increase their value.
+Recomendation for "Big Spenders" segment : Big spender shave always been among the most highly valued customers. Price isn t an issue to them, and they always want to get their hands on the best products no matter how much they cost. Focus on personalized services to make them feel extra special.
 Recommendation for “Almost Lost" segment: This customer segment is very at risk for churn, so focus on activating customers and making repurchases by forming a Reactivation Strategy, Retention Strategy.
-Recommendation for “Lost Cheap Customers" segment: This customer segment has churned, so the focus of the campaign is to reactivate the customer by forming a Reactivation strategy.
+Recommendation for “Lost & Lost Cheap Customers" segment: This customer segment has churned, so the focus of the campaign is to reactivate the customer by forming a Reactivation strategy.
 
 ![K means](https://user-images.githubusercontent.com/101268442/174449418-73705f74-3edc-400e-b04c-edd1599da935.png)
 
