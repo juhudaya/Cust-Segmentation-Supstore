@@ -1,5 +1,8 @@
 # Cust-Segmentation-Supstore
 
+#add dasboarding on tableau
+
+https://public.tableau.com/app/profile/juhudaya/viz/CustomerSegmentation_16563668666440/Dashboard2
 
 # Customer Segmentation Using RFM Analysis (Quantiles Method and K-Means Clustering
 
